@@ -10,10 +10,10 @@
         }
     ],
     "require": {
-        "laravel-shield/shield": "^2.0"
+        "laravel-shield/shield": "^3.0"
     },
     "require-dev": {
-        "laravel-shield/testing": "^2.0"
+        "laravel-shield/testing": "^3.0"
     },
     "autoload": {
         "psr-4": {
